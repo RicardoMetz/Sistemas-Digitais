@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+//ALUNOS: DEIVIDI LUIZ, RICARDO METZ WEITZ
+
 //Usuário da entrada de 3 pontos do plano cartesiano de 100x100 e o programa imprime um triangulo ligando os 3 pontos
 
 typedef struct{
